@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/gopalt/.nuget/packages"
+    ]
+  }
+}

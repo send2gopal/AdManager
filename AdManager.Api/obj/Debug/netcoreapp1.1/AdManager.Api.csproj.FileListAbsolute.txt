@@ -1,0 +1,8 @@
+/home/gopalt/AdManager/AdManager.Api/bin/Debug/netcoreapp1.1/AdManager.Api.deps.json
+/home/gopalt/AdManager/AdManager.Api/bin/Debug/netcoreapp1.1/AdManager.Api.runtimeconfig.json
+/home/gopalt/AdManager/AdManager.Api/bin/Debug/netcoreapp1.1/AdManager.Api.runtimeconfig.dev.json
+/home/gopalt/AdManager/AdManager.Api/bin/Debug/netcoreapp1.1/AdManager.Api.dll
+/home/gopalt/AdManager/AdManager.Api/bin/Debug/netcoreapp1.1/AdManager.Api.pdb
+/home/gopalt/AdManager/AdManager.Api/obj/Debug/netcoreapp1.1/AdManager.Api.AssemblyInfo.cs
+/home/gopalt/AdManager/AdManager.Api/obj/Debug/netcoreapp1.1/AdManager.Api.dll
+/home/gopalt/AdManager/AdManager.Api/obj/Debug/netcoreapp1.1/AdManager.Api.pdb

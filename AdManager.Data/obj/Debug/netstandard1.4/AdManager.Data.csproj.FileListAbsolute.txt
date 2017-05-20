@@ -1,0 +1,8 @@
+/home/gopalt/AdManager/AdManager.Data/bin/Debug/netstandard1.4/AdManager.Data.deps.json
+/home/gopalt/AdManager/AdManager.Data/bin/Debug/netstandard1.4/AdManager.Data.dll
+/home/gopalt/AdManager/AdManager.Data/bin/Debug/netstandard1.4/AdManager.Data.pdb
+/home/gopalt/AdManager/AdManager.Data/obj/Debug/netstandard1.4/AdManager.Data.AssemblyInfo.cs
+/home/gopalt/AdManager/AdManager.Data/obj/Debug/netstandard1.4/AdManager.Data.dll
+/home/gopalt/AdManager/AdManager.Data/obj/Debug/netstandard1.4/AdManager.Data.pdb
+/home/gopalt/AdManager/AdManager.Data/bin/Debug/netstandard1.4/AdManager.Core.dll
+/home/gopalt/AdManager/AdManager.Data/bin/Debug/netstandard1.4/AdManager.Core.pdb
