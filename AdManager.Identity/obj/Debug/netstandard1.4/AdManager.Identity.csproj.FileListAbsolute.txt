@@ -1,0 +1,6 @@
+/home/gopalt/AdManager/AdManager.Identity/bin/Debug/netstandard1.4/AdManager.Identity.deps.json
+/home/gopalt/AdManager/AdManager.Identity/bin/Debug/netstandard1.4/AdManager.Identity.dll
+/home/gopalt/AdManager/AdManager.Identity/bin/Debug/netstandard1.4/AdManager.Identity.pdb
+/home/gopalt/AdManager/AdManager.Identity/obj/Debug/netstandard1.4/AdManager.Identity.AssemblyInfo.cs
+/home/gopalt/AdManager/AdManager.Identity/obj/Debug/netstandard1.4/AdManager.Identity.dll
+/home/gopalt/AdManager/AdManager.Identity/obj/Debug/netstandard1.4/AdManager.Identity.pdb
